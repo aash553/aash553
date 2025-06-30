@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aash553&style=for-the-badge&color=blue" />
-  <a href="https://www.linkedin.com/in/aashishlalith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/aashish-lalith-3bb253296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aashishlalith553@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
