@@ -6,6 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashish_553) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aashishlalith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishlalith553@gmail.com) 
 
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aash553&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
