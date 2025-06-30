@@ -1,5 +1,13 @@
-# 💫 About Me:
-👋 About Me<br>Hey! I’m Aashish L., a developer who enjoys solving problems and building scalable full-stack apps. I’m all about writing clean code and continuously leveling up.<br><br>🔭 Currently Working On<br><br>Mastering DSA in C++<br>Deploying MERN stack projects with Redux & Tailwind<br><br>🤝 Looking to Collaborate On<br><br>Backend APIs (Node.js, Express, MongoDB)<br>Scalable full-stack/web dev projects<br>Open-source contributions<br><br>💬 Ask Me About<br><br>DSA & C++<br>Deploying ML models on AWS<br>Real-time backend systems<br><br>🎉 Fun Fact<br>Cricket keeps me grounded, music lifts me up, and I love a good debate!<br><br>
+## 🚀 About Me
+
+Hi there! I'm **Aashish**, a passionate developer who loves building efficient solutions and exploring the latest in tech.
+
+- 🔭 Currently working on: **Data Structures & Algorithms (DSA)** to strengthen my problem-solving skills  
+- 🌱 Actively learning: **System Design**, **Backend Development (Node.js, Express)**, and **Cloud Deployment**  
+- 🤝 Open to collaborate on: **Web development**, **backend APIs**, and **real-world DSA-based projects**  
+- 💬 Ask me about: **MERN stack**, **REST APIs**, or anything code-related  
+- 🧠 Always up for: **challenges**, **new ideas**, and **learning something impactful**  
+- 🎯 Goal: To build **scalable systems** that create **real-world impact**
 
 
 ## 🌐 Socials:
