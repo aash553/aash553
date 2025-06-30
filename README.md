@@ -1,3 +1,20 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FCE490&center=true&vCenter=true&random=false&width=800&height=100&lines=Hey+there!+I'm+Aashish" alt="Typing SVG" />
+</h1>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aash553&style=for-the-badge&color=blue" />
+  <a href="https://www.linkedin.com/in/aashishlalith"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aashishlalith553@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
+
+
+
+
+
+
 ## 🚀 About Me
 
 Hi there! I'm **Aashish**, a passionate developer who loves building efficient solutions and exploring the latest in tech.
